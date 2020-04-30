@@ -1,3 +1,3 @@
 # ProjectEuler-Task6
 Sum square difference
-Easy loops
+Make loops to count demanded numbers...
